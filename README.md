@@ -1,4 +1,4 @@
-# About my solution of third project of Udacity Intermediate Javascript.
+# Chap 1 : About my solution of third project of Udacity Intermediate Javascript.
 
 Car race image from https://www.pexels.com/ja-jp/search/%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%BC/
 race_img1 https://www.pexels.com/ja-jp/photo/6697875/
@@ -28,7 +28,7 @@ https://github.com/paulcarrillo/UdaciRacer
 
 
 
-# Welcome to the One and only UdaciRacer Simulation Game
+# Chap 2 : Welcome to the One and only UdaciRacer Simulation Game
 
 ## Project Introduction
 
