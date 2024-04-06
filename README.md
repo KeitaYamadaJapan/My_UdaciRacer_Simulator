@@ -18,9 +18,8 @@ I cannot find how to make bin files. So I use bin files from above mates(bin fil
 I cannot find how to make success next race, yet.
 So I made end this game by canceling the execution of the "next race".
 
-## Please delete the bin folder from my project after git clone.
-## Paste the bin falfer of one of the projects below.
-
+## Note1 : Please delete the bin folder from my project after git clone.
+## Note2 : Paste the bin falfer of one of the projects below.
 https://github.com/TingChiehLin/UdaciRacer-Sim
 
 or
