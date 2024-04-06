@@ -20,7 +20,9 @@ So I made end this game by canceling the execution of the "next race".
 
 https://github.com/TingChiehLin/UdaciRacer-Sim
 or
-https://github.com/paulcarrillo/UdaciRacer)# Welcome to the One and only UdaciRacer Simulation Game
+https://github.com/paulcarrillo/UdaciRacer
+
+# Welcome to the One and only UdaciRacer Simulation Game
 
 ## Project Introduction
 
