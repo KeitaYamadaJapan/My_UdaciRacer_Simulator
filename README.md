@@ -19,7 +19,7 @@ I cannot find how to make success next race, yet.
 So I made end this game by canceling the execution of the "next race".
 
 ## Note1 : Please delete the bin folder from my project after git clone.
-## Note2 : Paste the bin falfer of one of the projects below.
+## Note2 : Replace the bin folder of one of the projects below.
 https://github.com/TingChiehLin/UdaciRacer-Sim
 
 or
