@@ -7,8 +7,11 @@ race_img2 https://www.pexels.com/ja-jp/photo/13207677/
 My project is base on starter code from https://github.com/udacity/cd1706-udaciracer-project-starter
 
 I have created my project by learning coding skill from
+
 https://github.com/TingChiehLin/UdaciRacer-Sim
+
 and
+
 https://github.com/paulcarrillo/UdaciRacer
 
 I cannot find how to make bin files. So I use bin files from above mates(bin files of both of two are same.).
@@ -19,8 +22,12 @@ So I made end this game by canceling the execution of the "next race".
 ## Paste the bin falfer of one of the projects below.
 
 https://github.com/TingChiehLin/UdaciRacer-Sim
+
 or
+
 https://github.com/paulcarrillo/UdaciRacer
+
+
 
 # Welcome to the One and only UdaciRacer Simulation Game
 
